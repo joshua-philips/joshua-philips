@@ -7,7 +7,10 @@
 - ⚡ Fun fact: I like to read and listen to music. I also write film reviews sometimes on my [**Letterboxd page**][letterboxd]
 - 📫 How to reach me: [**Email**][email]
 
+My Behance Profile: [**Joshua Philips**][behance]
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-philips&theme=default&show_icons=true)
 
 [email]: mailto:philipsjoshua96@gmail.com
 [letterboxd]: https://letterboxd.com/Joshua_Philips/
+[behance]: https://www.behance.net/joshuaphilips
