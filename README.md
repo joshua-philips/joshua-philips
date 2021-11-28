@@ -1,5 +1,5 @@
 ### Hello👋 I am Joshua Philips
-
+<hr></hr>
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on any flutter or java projects to sharpen my skills
@@ -8,6 +8,7 @@
 - 📫 How to reach me: [**Email**][email]
 
 My Behance Profile: [**Joshua Philips**][behance]
+<hr></hr>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-philips&theme=default&show_icons=true)
 
