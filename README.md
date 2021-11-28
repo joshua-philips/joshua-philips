@@ -10,7 +10,7 @@
 My Behance Profile: [**Joshua Philips**][behance]
 <hr></hr>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-philips&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-philips&layout=compact&theme=dracula&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 [email]: mailto:philipsjoshua96@gmail.com
 [letterboxd]: https://letterboxd.com/Joshua_Philips/
