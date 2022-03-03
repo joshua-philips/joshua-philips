@@ -1,7 +1,7 @@
 ### Hello👋 I am Joshua Philips
 <hr></hr>
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Spring Boot
 - 👯 I’m looking to collaborate on any flutter or java projects to sharpen my skills
 - 💬 Ask me about anything
 - ⚡ Fun fact: I like to read and listen to music. I also write film reviews sometimes on my [**Letterboxd page**][letterboxd]
