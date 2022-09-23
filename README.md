@@ -1,7 +1,6 @@
 ### Hello👋 I am Joshua Philips
 <hr></hr>
 
-- 🌱 I’m currently learning Flutter, Spring Boot and React
 - 👯 I’m looking to collaborate on any projects to sharpen my skills
 - 💬 Ask me about anything
 - 📫 How to reach me: [**Email**][email]
